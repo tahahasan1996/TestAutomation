@@ -17,7 +17,7 @@ namespace selenium1
         {
             _driver.Navigate().GoToUrl("http://demo.guru99.com/test/newtours/index.php");
         }       
-        public string UserName= "//input[@name='userName']";                   
+        public string UserName= "//input[@name='userNam']";                   
         public string Password= "//input[@name='password']";
         public string Submit = "//input[@name='submit']";
                
